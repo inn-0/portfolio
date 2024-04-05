@@ -254,11 +254,11 @@ if __name__ == "__main__":
     ## Streaming Responses
 
 
-    # extraction_stream = get_response_streaming(extraction_target, content)
+    extraction_stream = get_response_streaming(extraction_target, content)
 
-    # console = Console()
+    console = Console()
 
-    # for extraction in extraction_stream:
-    #     obj = extraction.model_dump()
-    #     console.clear()
-    #     console.print(obj)
+    for extraction in extraction_stream:
+        obj = extraction.model_dump()
+        console.clear()
+        console.print(obj)
