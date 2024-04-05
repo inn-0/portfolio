@@ -1,11 +1,11 @@
-# Portfolio   (More Examples TBC)
+# Contact: Jerome G
 
 Contact Email:   innoswit+we@pm.me
 
 Contact LinkedIn:   [linkedin.com/in/jg-0ch/](https://www.linkedin.com/in/jg-0ch/)
 
 
-## Other Projects:
+## Projects (More Examples TBC):
 
 Scrape & Visualisation of Swiss Gregorian Chant Manuscript Archive:   [ecodices.replit.app/](https://ecodices.replit.app)
 
