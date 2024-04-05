@@ -1,9 +1,11 @@
 # Portfolio   (More Examples TBC)
 
-Contact:   innoswit+we@pm.me      [linkedin.com/in/jg-0ch/](https://www.linkedin.com/in/jg-0ch/)
+Contact Email:   innoswit+we@pm.me
+
+Contact LinkedIn:   [linkedin.com/in/jg-0ch/](https://www.linkedin.com/in/jg-0ch/)
 
 
-Other Projects:
+## Other Projects:
 
 Scrape & Visualisation of Swiss Gregorian Chant Manuscript Archive:   [ecodices.replit.app/](https://ecodices.replit.app)
 
