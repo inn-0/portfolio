@@ -1,3 +1,5 @@
+### DOWNLOAD:   https://is.gd/pycon
+
 ### Motivation:   "Parsing JSON is going to go wrong" - ArjanCodes   PyCon Lithuania    2024.04.04 Thu 15h57m
 
 ### Title:    Structured Your LLM Output Using the "Instructor" Package
