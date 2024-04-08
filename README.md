@@ -9,7 +9,7 @@ Contact LinkedIn:   [linkedin.com/in/jg-0ch/](https://www.linkedin.com/in/jg-0ch
 
 Scrape & Visualisation of Swiss Gregorian Chant Manuscript Archive    (MongoDB into Streamlit):   [ecodices.replit.app/](https://ecodices.replit.app)
 
-Social Network Analysis of Indian Unicorn Startup Investments    (Dash) :   TBC
+Social Network Analysis of Indian Unicorn Startup Investments    (Dash) :   [PDF](https://github.com/inn-0/portfolio/blob/main/The%20Business%20Social%20Networks%20of%20Indian%20Unicorn%20Startups.pdf)
 
 Clean Tech Chatbot   (RAG using DeepLake in Streamlit):   [https://cleantech.replit.app](https://cleantech.replit.app)
 
