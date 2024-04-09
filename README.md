@@ -8,6 +8,8 @@ Master's in Data Science (HSLU, 🇨🇭):   Using LLMs to Extract Information f
 
 # Projects (More Examples TBC):
 
+Conference Presentation: PyCon Lithuania 2024 - [Structured Outputs from LLMs (Lightning Talk)](https://www.linkedin.com/feed/update/urn:li:activity:7182057676166545408)
+
 Scrape & Visualisation of Swiss Gregorian Chant Manuscript Archive    (MongoDB into Streamlit):   [ecodices.replit.app/](https://ecodices.replit.app)
 
 Social Network Analysis of Indian Unicorn Startup Investments    (Dash) :   [PDF](https://github.com/inn-0/portfolio/blob/main/The%20Business%20Social%20Networks%20of%20Indian%20Unicorn%20Startups.pdf)
