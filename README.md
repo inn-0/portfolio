@@ -4,7 +4,7 @@ Contact Email:   innoswit+we@pm.me
 
 Contact LinkedIn:   [linkedin.com/in/jg-0ch/](https://www.linkedin.com/in/jg-0ch/)
 
-Master's in Data Science (HSLU, 🇨🇭):   Using LLMs to Extract Information from Sensitive Documents
+Master's in Data Science (HSLU, 🇨🇭):   Using LLMs to Extract Information from Sensitive Documents    [Data Extraction Dashboard](https://embed-mt--e-dash-wide2rows1.replit.app) (hover on dots)
 
 # Projects (More Examples TBC):
 
