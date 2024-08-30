@@ -28,5 +28,5 @@ Contact LinkedIn:   [linkedin.com/in/jg-0ch/](https://www.linkedin.com/in/jg-0ch
 
 
 ### SmashCut - Tennis Without Time-Out = Computer Vision models to auto-generate highlight snippets from tennis matches   (PyTorch, GPT4-vision, Dash ) :   [https://is.gd/smashcut](https://is.gd/smashcut)
-![SmashCut](https://github.com/user-attachments/assets/3ad7912d-bf76-4c57-a1d8-66fef6d0de64)
+![SmashCut](https://github.com/user-attachments/assets/3451b8b4-1635-4269-9043-fc5fd454b16d)
 
